@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm lonnstyle</h1>
-<h3 align="center">A BCs TopUp Degree student</h3>
+<h3 align="center">BCs graduate(<a href="https://uow.edu.au">University of Wollongong</a>)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lonnstyle&label=Profile%20views&color=0e75b6&style=flat" alt="lonnstyle" /> </p>
 
